@@ -60,3 +60,7 @@ Below are sample labs to help learners practice key concepts:
 
 ---
 This file can be expanded with advanced labs such as IPSec VPN, GlobalProtect, High Availability, and more.
+# Resources - 
+## visit:  -
+[![Click Here](https://img.shields.io/badge/GDrive-Link-blue?style=for-the-badge)]([https://example.com](https://drive.google.com/drive/folders/1CVyOswiT7_Lkob0GpM09T-zp23GtH5Sh?usp=sharing))
+- https://drive.google.com/drive/folders/1CVyOswiT7_Lkob0GpM09T-zp23GtH5Sh?usp=sharing
